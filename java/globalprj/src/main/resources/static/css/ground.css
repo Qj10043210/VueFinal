@@ -1,0 +1,19 @@
+#g_sc{
+    position: absolute;
+    z-index: 5;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    max-width: 1024px;
+    aspect-ratio: 1024/768;
+    overflow: hidden;
+    border: 5px solid red;
+    background-repeat: no-repeat;
+}
+#g_bc{
+    position: absolute;
+    z-index: 6;
+    
+}

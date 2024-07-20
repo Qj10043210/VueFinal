@@ -1,0 +1,56 @@
+[
+    {
+      "hair_original": "30000",
+      "hair_name" : "멋쟁이 머리",
+      "hair_number": "0000",
+      "hair_w": "38",
+      "hair_h": "22",
+      "hair_x": "9",
+      "hair_y": "14"
+    },
+    {
+      "hair_original": "30030",
+      "hair_name" : "깔끔한 3mm",
+      "hair_number": "0100",
+      "hair_w": "35",
+      "hair_h": "22",
+      "hair_x": "10",
+      "hair_y": "15"
+    },
+    {
+      "hair_original": "30040",
+      "hair_name" : "강타",
+      "hair_number": "0200",
+      "hair_w": "42",
+      "hair_h": "42",
+      "hair_x": "6",
+      "hair_y": "8"
+    },
+    {
+      "hair_original": "30050",
+      "hair_name" : "번개의신vv",
+      "hair_number": "0300",
+      "hair_w": "57",
+      "hair_h": "37",
+      "hair_x": "0",
+      "hair_y": "0"
+    },
+    {
+      "hair_original": "38000",
+      "hair_name" : "올림머리",
+      "hair_number": "0400",
+      "hair_w": "44",
+      "hair_h": "45",
+      "hair_x": "6",
+      "hair_y": "10"
+    },
+    {
+      "hair_original": "37990",
+      "hair_name" : "꽁지머리",
+      "hair_number": "0500",
+      "hair_w": "55",
+      "hair_h": "37",
+      "hair_x": "6",
+      "hair_y": "7"
+    }
+  ]

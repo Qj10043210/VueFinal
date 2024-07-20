@@ -1,0 +1,778 @@
+[
+    {
+      "map_name": "ground",
+      "map_tag": "g00",
+      "map_x": 90,
+      "map_y": 60,
+      "map_t": 1,
+      "map_deatail": "big_wall"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g01",
+      "map_x": 90,
+      "map_y": 60,
+      "map_t": 1,
+      "map_deatail": "big_wall"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g02",
+      "map_x": 90,
+      "map_y": 60,
+      "map_t": 1,
+      "map_deatail": "big_wall"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g03",
+      "map_x": 90,
+      "map_y": 60,
+      "map_t": 1,
+      "map_deatail": "big_wall"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g04",
+      "map_x": 90,
+      "map_y": 60,
+      "map_t": 1,
+      "map_deatail": "big_wall"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g10",
+      "map_x": 48,
+      "map_y": 17,
+      "map_t": 1,
+      "map_deatail": "small_bottom"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g11",
+      "map_x": 54,
+      "map_y": 37,
+      "map_t": 0,
+      "map_deatail": "small_top"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g12",
+      "map_x": 55,
+      "map_y": 38,
+      "map_t": 0,
+      "map_deatail": "small_top"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g20",
+      "map_x": 90,
+      "map_y": 38,
+      "map_t": 0,
+      "map_deatail": "big_top"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g21",
+      "map_x": 90,
+      "map_y": 39,
+      "map_t": 0,
+      "map_deatail": "big_top"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g22",
+      "map_x": 90,
+      "map_y": 25,
+      "map_t": 1,
+      "map_deatail": "big_bottom"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g23",
+      "map_x": 90,
+      "map_y": 26,
+      "map_t": 1,
+      "map_deatail": "big_bottom"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g30",
+      "map_x": 32,
+      "map_y": 60,
+      "map_t": 1,
+      "map_deatail": "side_left"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g31",
+      "map_x": 29,
+      "map_y": 60,
+      "map_t": 1,
+      "map_deatail": "side_left"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g40",
+      "map_x": 29,
+      "map_y": 60,
+      "map_t": 1,
+      "map_deatail": "side_right"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g41",
+      "map_x": 29,
+      "map_y": 60,
+      "map_t": 1,
+      "map_deatail": "side_right"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g50",
+      "map_x": 90,
+      "map_y": 77,
+      "map_t": 1,
+      "map_deatail": "glide_left_bottom"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g51",
+      "map_x": 90,
+      "map_y": 77,
+      "map_t": 1,
+      "map_deatail": "glide_left_bottom"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g52",
+      "map_x": 90,
+      "map_y": 94,
+      "map_t": 0,
+      "map_deatail": "glide_left_top"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g53",
+      "map_x": 90,
+      "map_y": 77,
+      "map_t": 1,
+      "map_deatail": "glide_right_bottom"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g54",
+      "map_x": 90,
+      "map_y": 77,
+      "map_t": 1,
+      "map_deatail": "glide_right_bottom"
+    },
+    {
+      "map_name": "ground",
+      "map_tag": "g55",
+      "map_x": 90,
+      "map_y": 94,
+      "map_t": 0,
+      "map_deatail": "glide_right_top"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q00",
+      "map_x": 65,
+      "map_y": 116,
+      "map_t": 1,
+      "map_deatail": "obj_lamp"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q01",
+      "map_x": 54,
+      "map_y": 63,
+      "map_t": 1,
+      "map_deatail": "obj_post"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q02",
+      "map_x": 234,
+      "map_y": 55,
+      "map_t": 1,
+      "map_deatail": "obj_fense"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q03",
+      "map_x": 168,
+      "map_y": 57,
+      "map_t": 1,
+      "map_deatail": "obj_fense"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q04",
+      "map_x": 176,
+      "map_y": 125,
+      "map_t": 1,
+      "map_deatail": "obj_board"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q05",
+      "map_x": 132,
+      "map_y": 58,
+      "map_t": 1,
+      "map_deatail": "obj_bench"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q06",
+      "map_x": 121,
+      "map_y": 61,
+      "map_t": 1,
+      "map_deatail": "dont"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q07",
+      "map_x": 108,
+      "map_y": 77,
+      "map_t": 1,
+      "map_deatail": "obj_dog"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q08",
+      "map_x": 153,
+      "map_y": 88,
+      "map_t": 1,
+      "map_deatail": "obj_pond"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q09",
+      "map_x": 176,
+      "map_y": 64,
+      "map_t": 0,
+      "map_deatail": "obj_wheel_right"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q10",
+      "map_x": 52,
+      "map_y": 52,
+      "map_t": 0,
+      "map_deatail": "obj_oak"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q11",
+      "map_x": 65,
+      "map_y": 53,
+      "map_t": 0,
+      "map_deatail": "obj_oak"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q12",
+      "map_x": 78,
+      "map_y": 201,
+      "map_t": 1,
+      "map_deatail": "obj_beam"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q13",
+      "map_x": 72,
+      "map_y": 136,
+      "map_t": 1,
+      "map_deatail": "obj_beam_cover"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q14",
+      "map_x": 40,
+      "map_y": 85,
+      "map_t": 1,
+      "map_deatail": "obj_flowerpot"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q15",
+      "map_x": 42,
+      "map_y": 89,
+      "map_t": 1,
+      "map_deatail": "obj_flowerpot"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q16",
+      "map_x": 48,
+      "map_y": 54,
+      "map_t": 1,
+      "map_deatail": "obj_postclose"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q17",
+      "map_x": 51,
+      "map_y": 54,
+      "map_t": 1,
+      "map_deatail": "obj_postopen"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q18",
+      "map_x": 184,
+      "map_y": 111,
+      "map_t": 1,
+      "map_deatail": "obj_laundary"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q19",
+      "map_x": 38,
+      "map_y": 53,
+      "map_t": 1,
+      "map_deatail": "obj_laundary_cover"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q20",
+      "map_x": 66,
+      "map_y": 47,
+      "map_t": 1,
+      "map_deatail": "obj_laundary_cover"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q21",
+      "map_x": 463,
+      "map_y": 81,
+      "map_t": 1,
+      "map_deatail": "dont"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q22",
+      "map_x": 442,
+      "map_y": 65,
+      "map_t": 1,
+      "map_deatail": "dont"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q23",
+      "map_x": 49,
+      "map_y": 48,
+      "map_t": 1,
+      "map_deatail": "obj_sack"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q24",
+      "map_x": 49,
+      "map_y": 44,
+      "map_t": 1,
+      "map_deatail": "obj_sack"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q25",
+      "map_x": 42,
+      "map_y": 92,
+      "map_t": 1,
+      "map_deatail": "obj_three"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q26",
+      "map_x": 97,
+      "map_y": 90,
+      "map_t": 1,
+      "map_deatail": "obj_photo"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q27",
+      "map_x": 115,
+      "map_y": 150,
+      "map_t": 1,
+      "map_deatail": "obj_photo"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q28",
+      "map_x": 261,
+      "map_y": 153,
+      "map_t": 0,
+      "map_deatail": "obj_mushroom_head"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q29",
+      "map_x": 59,
+      "map_y": 111,
+      "map_t": 1,
+      "map_deatail": "obj_mushroom_body"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q30",
+      "map_x": 37,
+      "map_y": 28,
+      "map_t": 1,
+      "map_deatail": "obj_mushroom"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q31",
+      "map_x": 89,
+      "map_y": 27,
+      "map_t": 1,
+      "map_deatail": "obj_mushroom"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q32",
+      "map_x": 774,
+      "map_y": 419,
+      "map_t": 1,
+      "map_deatail": "ojb_houses"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q33",
+      "map_x": 207,
+      "map_y": 140,
+      "map_t": 1,
+      "map_deatail": "obj_gate"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q34",
+      "map_x": 104,
+      "map_y": 140,
+      "map_t": 1,
+      "map_deatail": "obj_statue"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q35",
+      "map_x": 87,
+      "map_y": 28,
+      "map_t": 1,
+      "map_deatail": "obj_bench"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q36",
+      "map_x": 257,
+      "map_y": 227,
+      "map_t": 1,
+      "map_deatail": "obj_gate"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q37",
+      "map_x": 207,
+      "map_y": 125,
+      "map_t": 1,
+      "map_deatail": "obj_box_several"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q38",
+      "map_x": 151,
+      "map_y": 87,
+      "map_t": 1,
+      "map_deatail": "obj_box_several"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q39",
+      "map_x": 59,
+      "map_y": 43,
+      "map_t": 0,
+      "map_deatail": "obj_box_one"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q40",
+      "map_x": 108,
+      "map_y": 70,
+      "map_t": 0,
+      "map_deatail": "obj_box_one"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q41",
+      "map_x": 140,
+      "map_y": 114,
+      "map_t": 1,
+      "map_deatail": "obj_wheat"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q42",
+      "map_x": 45,
+      "map_y": 58,
+      "map_t": 1,
+      "map_deatail": "obj_fense"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q43",
+      "map_x": 92,
+      "map_y": 60,
+      "map_t": 1,
+      "map_deatail": "obj_fense"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q44",
+      "map_x": 38,
+      "map_y": 59,
+      "map_t": 1,
+      "map_deatail": "obj_fense"
+    },
+    {
+      "map_name": "object",
+      "map_tag": "q45",
+      "map_x": 176,
+      "map_y": 74,
+      "map_t": 1,
+      "map_deatail": "obj_wheel_left"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w00",
+      "map_x": 131,
+      "map_y": 39,
+      "map_t": 1,
+      "map_deatail": "nat_bush"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w01",
+      "map_x": 54,
+      "map_y": 38,
+      "map_t": 1,
+      "map_deatail": "nat_bush"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w02",
+      "map_x": 57,
+      "map_y": 35,
+      "map_t": 1,
+      "map_deatail": "nat_mush"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w03",
+      "map_x": 46,
+      "map_y": 44,
+      "map_t": 1,
+      "map_deatail": "nat_flower"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w04",
+      "map_x": 43,
+      "map_y": 42,
+      "map_t": 1,
+      "map_deatail": "nat_flower"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w05",
+      "map_x": 47,
+      "map_y": 66,
+      "map_t": 1,
+      "map_deatail": "nat_flower"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w06",
+      "map_x": 56,
+      "map_y": 52,
+      "map_t": 1,
+      "map_deatail": "nat_flower"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w07",
+      "map_x": 62,
+      "map_y": 40,
+      "map_t": 1,
+      "map_deatail": "nat_mush"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w08",
+      "map_x": 62,
+      "map_y": 40,
+      "map_t": 1,
+      "map_deatail": "nat_mush"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w09",
+      "map_x": 60,
+      "map_y": 63,
+      "map_t": 1,
+      "map_deatail": "nat_tree"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w10",
+      "map_x": 83,
+      "map_y": 59,
+      "map_t": 1,
+      "map_deatail": "nat_bush"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w11",
+      "map_x": 132,
+      "map_y": 294,
+      "map_t": 1,
+      "map_deatail": "nat_mush"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w12",
+      "map_x": 120,
+      "map_y": 287,
+      "map_t": 1,
+      "map_deatail": "nat_mush"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w13",
+      "map_x": 223,
+      "map_y": 128,
+      "map_t": 1,
+      "map_deatail": "nat_bush"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w14",
+      "map_x": 97,
+      "map_y": 90,
+      "map_t": 1,
+      "map_deatail": "nat_msuh"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w15",
+      "map_x": 290,
+      "map_y": 239,
+      "map_t": 1,
+      "map_deatail": "nat_tree"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w16",
+      "map_x": 200,
+      "map_y": 105,
+      "map_t": 1,
+      "map_deatail": "dont"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w17",
+      "map_x": 141,
+      "map_y": 62,
+      "map_t": 1,
+      "map_deatail": "nat_mush"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w18",
+      "map_x": 39,
+      "map_y": 35,
+      "map_t": 1,
+      "map_deatail": "nat_mush"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w19",
+      "map_x": 33,
+      "map_y": 16,
+      "map_t": 1,
+      "map_deatail": "nat_fly"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w20",
+      "map_x": 38,
+      "map_y": 16,
+      "map_t": 1,
+      "map_deatail": "nat_fly"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w21",
+      "map_x": 33,
+      "map_y": 18,
+      "map_t": 1,
+      "map_deatail": "nat_fly"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w22",
+      "map_x": 40,
+      "map_y": 66,
+      "map_t": 1,
+      "map_deatail": "nat_flower"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w23",
+      "map_x": 63,
+      "map_y": 88,
+      "map_t": 1,
+      "map_deatail": "nat_flower"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w24",
+      "map_x": 50,
+      "map_y": 77,
+      "map_t": 1,
+      "map_deatail": "nat_flower"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w25",
+      "map_x": 132,
+      "map_y": 183,
+      "map_t": 1,
+      "map_deatail": "dont"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w26",
+      "map_x": 120,
+      "map_y": 157,
+      "map_t": 1,
+      "map_deatail": "dont"
+    },
+    {
+      "map_name": "natural",
+      "map_tag": "w27",
+      "map_x": 337,
+      "map_y": 27,
+      "map_t": 1,
+      "map_deatail": "nat_field"
+    },
+    {
+      "map_name": "portal",
+      "map_tag": "p00",
+      "map_x": 87,
+      "map_y": 182,
+      "map_t": 1,
+      "map_deatail": "portal"
+    }
+   ]

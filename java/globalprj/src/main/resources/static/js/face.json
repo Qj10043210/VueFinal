@@ -1,0 +1,387 @@
+[
+    {
+      "face_original": "20000",
+      "face_name" : "믿을만한 얼굴",
+      "face_number": "0000",
+      "face_x": "26",
+      "face_y": "16"
+    },
+    {
+      "face_original": "20000",
+      "face_name" : "믿을만한 얼굴",
+      "face_number": "0001",
+      "face_x": "25",
+      "face_y": "23"
+    },
+    {
+      "face_original": "20000",
+      "face_name" : "믿을만한 얼굴",
+      "face_number": "0002",
+      "face_x": "25",
+      "face_y": "15"
+    },
+    {
+      "face_original": "20000",
+      "face_name" : "믿을만한 얼굴",
+      "face_number": "0003",
+      "face_x": "26",
+      "face_y": "17"
+    },
+    {
+      "face_original": "20000",
+      "face_name" : "믿을만한 얼굴",
+      "face_number": "0004",
+      "face_x": "26",
+      "face_y": "12"
+    },
+    {
+      "face_original": "20004",
+      "face_name" : "사기칠 얼굴",
+      "face_number": "0100",
+      "face_x": "25",
+      "face_y": "14"
+    },
+    {
+      "face_original": "20004",
+      "face_name" : "사기칠 얼굴",
+      "face_number": "0101",
+      "face_x": "25",
+      "face_y": "23"
+    },
+    {
+      "face_original": "20004",
+      "face_name" : "사기칠 얼굴",
+      "face_number": "0102",
+      "face_x": "25",
+      "face_y": "13"
+    },
+    {
+      "face_original": "20004",
+      "face_name" : "사기칠 얼굴",
+      "face_number": "0103",
+      "face_x": "25",
+      "face_y": "16"
+    },
+    {
+      "face_original": "20004",
+      "face_name" : "사기칠 얼굴",
+      "face_number": "0104",
+      "face_x": "26",
+      "face_y": "10"
+    },
+    {
+      "face_original": "20006",
+      "face_name" : "이쁠뻔한 얼굴",
+      "face_number": "0200",
+      "face_x": "26",
+      "face_y": "16"
+    },
+    {
+      "face_original": "20006",
+      "face_name" : "이쁠뻔한 얼굴",
+      "face_number": "0201",
+      "face_x": "25",
+      "face_y": "22"
+    },
+    {
+      "face_original": "20006",
+      "face_name" : "이쁠뻔한 얼굴",
+      "face_number": "0202",
+      "face_x": "26",
+      "face_y": "16"
+    },
+    {
+      "face_original": "20006",
+      "face_name" : "이쁠뻔한 얼굴",
+      "face_number": "0203",
+      "face_x": "26",
+      "face_y": "17"
+    },
+    {
+      "face_original": "20006",
+      "face_name" : "이쁠뻔한 얼굴",
+      "face_number": "0204",
+      "face_x": "26",
+      "face_y": "13"
+    },
+    {
+      "face_original": "20009",
+      "face_name" : "진상부리는 얼굴",
+      "face_number": "0300",
+      "face_x": "24",
+      "face_y": "14"
+    },
+    {
+      "face_original": "20009",
+      "face_name" : "진상부리는 얼굴",
+      "face_number": "0301",
+      "face_x": "25",
+      "face_y": "22"
+    },
+    {
+      "face_original": "20009",
+      "face_name" : "진상부리는 얼굴",
+      "face_number": "0302",
+      "face_x": "24",
+      "face_y": "16"
+    },
+    {
+      "face_original": "20009",
+      "face_name" : "진상부리는 얼굴",
+      "face_number": "0303",
+      "face_x": "23",
+      "face_y": "15"
+    },
+    {
+      "face_original": "20009",
+      "face_name" : "진상부리는 얼굴",
+      "face_number": "0304",
+      "face_x": "25",
+      "face_y": "10"
+    },
+    {
+      "face_original": "20021",
+      "face_name" : "믿으면 안 될 얼굴",
+      "face_number": "0400",
+      "face_x": "26",
+      "face_y": "14"
+    },
+    {
+      "face_original": "20021",
+      "face_name" : "믿으면 안 될 얼굴",
+      "face_number": "0401",
+      "face_x": "25",
+      "face_y": "21"
+    },
+    {
+      "face_original": "20021",
+      "face_name" : "믿으면 안 될 얼굴",
+      "face_number": "0402",
+      "face_x": "26",
+      "face_y": "12"
+    },
+    {
+      "face_original": "20021",
+      "face_name" : "믿으면 안 될 얼굴",
+      "face_number": "0403",
+      "face_x": "26",
+      "face_y": "16"
+    },
+    {
+      "face_original": "20021",
+      "face_name" : "믿으면 안 될 얼굴",
+      "face_number": "0404",
+      "face_x": "26",
+      "face_y": "10"
+    },
+    {
+      "face_original": "20036",
+      "face_name" : "이쁘게 화난 얼굴",
+      "face_number": "0500",
+      "face_x": "27",
+      "face_y": "15"
+    },
+    {
+      "face_original": "20036",
+      "face_name" : "이쁘게 화난 얼굴",
+      "face_number": "0501",
+      "face_x": "25",
+      "face_y": "21"
+    },
+    {
+      "face_original": "20036",
+      "face_name" : "이쁘게 화난 얼굴",
+      "face_number": "0502",
+      "face_x": "27",
+      "face_y": "15"
+    },
+    {
+      "face_original": "20036",
+      "face_name" : "이쁘게 화난 얼굴",
+      "face_number": "0503",
+      "face_x": "24",
+      "face_y": "17"
+    },
+    {
+      "face_original": "20036",
+      "face_name" : "이쁘게 화난 얼굴",
+      "face_number": "0504",
+      "face_x": "24",
+      "face_y": "11"
+    },
+    {
+      "face_original": "20044",
+      "face_name" : "이쁜 얼굴",
+      "face_number": "0600",
+      "face_x": "25",
+      "face_y": "16"
+    },
+    {
+      "face_original": "20044",
+      "face_name" : "이쁜 얼굴",
+      "face_number": "0601",
+      "face_x": "25",
+      "face_y": "22"
+    },
+    {
+      "face_original": "20044",
+      "face_name" : "이쁜 얼굴",
+      "face_number": "0602",
+      "face_x": "25",
+      "face_y": "16"
+    },
+    {
+      "face_original": "20044",
+      "face_name" : "이쁜 얼굴",
+      "face_number": "0603",
+      "face_x": "25",
+      "face_y": "18"
+    },
+    {
+      "face_original": "20044",
+      "face_name" : "이쁜 얼굴",
+      "face_number": "0604",
+      "face_x": "26",
+      "face_y": "16"
+    },
+    {
+      "face_original": "20050",
+      "face_name" : "안경벗은 얼굴",
+      "face_number": "0700",
+      "face_x": "26",
+      "face_y": "15"
+    },
+    {
+      "face_original": "20050",
+      "face_name" : "안경벗은 얼굴",
+      "face_number": "0701",
+      "face_x": "26",
+      "face_y": "18"
+    },
+    {
+      "face_original": "20050",
+      "face_name" : "안경벗은 얼굴",
+      "face_number": "0702",
+      "face_x": "26",
+      "face_y": "15"
+    },
+    {
+      "face_original": "20050",
+      "face_name" : "안경벗은 얼굴",
+      "face_number": "0703",
+      "face_x": "26",
+      "face_y": "17"
+    },
+    {
+      "face_original": "20050",
+      "face_name" : "안경벗은 얼굴",
+      "face_number": "0704",
+      "face_x": "26",
+      "face_y": "16"
+    },
+    {
+      "face_original": "20061",
+      "face_name" : "아잉눈",
+      "face_number": "0800",
+      "face_x": "26",
+      "face_y": "15"
+    },
+    {
+      "face_original": "20061",
+      "face_name" : "아잉눈",
+      "face_number": "0801",
+      "face_x": "26",
+      "face_y": "18"
+    },
+    {
+      "face_original": "20061",
+      "face_name" : "아잉눈",
+      "face_number": "0802",
+      "face_x": "26",
+      "face_y": "16"
+    },
+    {
+      "face_original": "20061",
+      "face_name" : "아잉눈",
+      "face_number": "0803",
+      "face_x": "26",
+      "face_y": "18"
+    },
+    {
+      "face_original": "20061",
+      "face_name" : "아잉눈",
+      "face_number": "0804",
+      "face_x": "26",
+      "face_y": "17"
+    },
+    {
+      "face_original": "20066",
+      "face_name" : "심드렁한 얼굴",
+      "face_number": "0900",
+      "face_x": "26",
+      "face_y": "17"
+    },
+    {
+      "face_original": "20066",
+      "face_name" : "심드렁한 얼굴",
+      "face_number": "0901",
+      "face_x": "25",
+      "face_y": "21"
+    },
+    {
+      "face_original": "20066",
+      "face_name" : "심드렁한 얼굴",
+      "face_number": "0902",
+      "face_x": "26",
+      "face_y": "16"
+    },
+    {
+      "face_original": "20066",
+      "face_name" : "심드렁한 얼굴",
+      "face_number": "0903",
+      "face_x": "24",
+      "face_y": "17"
+    },
+    {
+      "face_original": "20066",
+      "face_name" : "심드렁한 얼굴",
+      "face_number": "0904",
+      "face_x": "25",
+      "face_y": "13"
+    },
+    {
+      "face_original": "20068",
+      "face_name" : "이쁘게 불안한 얼굴",
+      "face_number": "1000",
+      "face_x": "27",
+      "face_y": "15"
+    },
+    {
+      "face_original": "20068",
+      "face_name" : "이쁘게 불안한 얼굴",
+      "face_number": "1001",
+      "face_x": "23",
+      "face_y": "20"
+    },
+    {
+      "face_original": "20068",
+      "face_name" : "이쁘게 불안한 얼굴",
+      "face_number": "1002",
+      "face_x": "27",
+      "face_y": "19"
+    },
+    {
+      "face_original": "20068",
+      "face_name" : "이쁘게 불안한 얼굴",
+      "face_number": "1003",
+      "face_x": "24",
+      "face_y": "16"
+    },
+    {
+      "face_original": "20068",
+      "face_name" : "이쁘게 불안한 얼굴",
+      "face_number": "1004",
+      "face_x": "23",
+      "face_y": "15"
+    }
+  ]
