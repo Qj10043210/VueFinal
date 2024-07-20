@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ko" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DEAD</title>
+    
+        <link th:href="@{/css/main.css}" rel="stylesheet" type="text/css"/>
+        <link th:href="@{/css/dead.css}" rel="stylesheet" type="text/css"/>
+    
+    <link rel="icon" type="image/x-icon" th:href="@{/css/cont/pavicon.png}">
+</head>
+<body>
+    
+    <div id="tomb_main">
+        <div id="tomb_msg"></div>
+        <div id="tomb_shadow"></div>
+        <div id="tomb">
+            <div id="tomb_head">
+                <div id="tomb_hair"></div>
+                <div id="tomb_face"></div>
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+    <script>
+        $.noConflict();
+        var jQ = jQuery;
+    </script>
+    <script type="module" th:src="@{/js/main.js}"></script>
+    <script type="module" th:src="@{/js/url.js}"></script>
+    <script>
+        import {HOME_URL, BASE_URL} from './js/url.js'
+        setTimeout(() => {
+            jQ('#tomb_msg').fadeIn(2300);
+            jQ('#tomb_head').fadeIn(2300);
+        }, 2000);
+        jQ('#tomb_msg').on('click', function() {
+            window.location.href = HOME_URL + "/home";
+        });
+    </script>
+</body>
+</html>

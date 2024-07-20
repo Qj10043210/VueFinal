@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ko" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ROOM04</title>
+        <link th:href="@{/css/main.css}" rel="stylesheet" type="text/css"/>
+        <link th:href="@{/css/room.css}" rel="stylesheet" type="text/css"/>
+    
+    <link rel="icon" type="image/x-icon" th:href="@{/css/cont/pavicon.png}">
+</head>
+<body>
+    <input id="sessionId" th:value="${session.joinedName}" type="hidden"/>
+    <input id="sessionNew" th:value="${session.newbie}" type="hidden"/>
+    <input id="sessionLoc" th:value="${session.loc}" type="hidden"/>
+    <input id="sessionTyp" th:value="${session.typ}" type="hidden"/>
+    <!-- typ = b_type, loc= l_room -->
+    <div id="globalLoad">
+        <div id="globalLoad_context"></div>
+    </div>
+    <div id="error">
+        <div id="error_button"></div>
+    </div>
+    <div id="im_back">
+        <div class="im_back_front"></div>
+        <div class="im_back_front"></div>
+        <div class="im_back_front"></div>
+        <div class="im_back_front"></div>
+        <div class="im_back_front"></div>
+        <div id="im_b_tit">
+            <div class="cm_b_tit_in cm_b_tit_i_l"></div>
+            <div class="cm_b_tit_in cm_b_tit_i_r"></div>
+        </div>
+    </div>
+    <div id="im_m">
+        <div id="rsp">
+            <div id="rsp_main">
+                <div id="timer">
+                    <div id="timer_img" class="timer_def"></div>
+                    <div id="timer_clock"></div>
+                    <div id="timer_button"></div>
+                </div>
+                <div id="rsp_msg">
+                    <div id="rsp_msg_time"></div>
+                </div>
+                <div id="rsp_sc_l"></div>
+                <div id="rsp_sc_r"></div>
+                <div id="rsp_ch_l">
+                    <div id="rsp_chars_head_0" class="rsp_chars_head_def">
+                        <div id="rsp_chars_ready_0" class="rsp_chars_ready rsp_chars_ready_0"></div>
+                        <div id="rsp_chars_hair_0" class="rsp_chars_hair_def"></div>
+                        <div id="rsp_chars_face_0" class="rsp_chars_face_def"></div>
+                    </div>
+                    <div id="rsp_hp_l" class="rsp_hp">                            
+                        <div id="rsp_l_bar_hp" class="rsp_hp_bar"></div>
+                        <div id="rsp_l_bar_hp_b" class="rsp_hp_b"></div>
+                    </div>
+                </div>
+                <div id="rsp_ch_r">
+                    <div id="rsp_chars_head_1" class="rsp_chars_head_def">
+                        <div id="rsp_chars_ready_1" class="rsp_chars_ready rsp_chars_ready_0"></div>
+                        <div id="rsp_chars_hair_1" class="rsp_chars_hair_def"></div>
+                        <div id="rsp_chars_face_1" class="rsp_chars_face_def"></div>
+                    </div>
+                    <div id="rsp_hp_r" class="rsp_hp">                            
+                        <div id="rsp_r_bar_hp" class="rsp_hp_bar"></div>
+                        <div id="rsp_r_bar_hp_b" class="rsp_hp_b"></div>
+                    </div>
+                </div>
+                <div id="rsp_select">
+                    <div id="rsp_select_r" class="rsp_selects" data-rsp="R"></div>
+                    <div id="rsp_select_s" class="rsp_selects" data-rsp="S"></div>
+                    <div id="rsp_select_p" class="rsp_selects" data-rsp="P"></div>
+                </div>
+                <div id="rsp_btn_back" class="btn_back"></div>                
+                <div id="rsp_btn_confirm"></div>
+                <div id="rsp_btn_ready"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+    <script>
+        $.noConflict();
+        var jQ = jQuery;
+    </script>
+
+    <script type="module" th:src="@{/js/main.js}"></script>
+    <script type="module" th:src="@{/js/room.js}"></script>
+    <script type="module" th:src="@{/js/board.js}"></script>
+    <script type="module" th:src="@{/js/action_rsp.js}"></script>            
+    <script type="text/javascript" th:src="@{/js/hair.json}"></script>
+    <script type="text/javascript" th:src="@{/js/face.json}"></script>
+    <script type="text/javascript" th:src="@{/js/game.json}"></script>                        
+    <script type="module" th:src="@{/insert/timer.js}"></script>     
+</body>
+</html>
